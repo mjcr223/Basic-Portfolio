@@ -1,0 +1,19 @@
+background{
+    color:grey;
+    
+}
+
+
+body{
+    margin-left:250px;
+    margin-right:250px;
+    float:center;
+
+
+}
+.column1{
+    position: static;
+    left:350px;
+
+}
+
